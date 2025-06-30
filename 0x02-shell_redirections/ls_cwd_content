@@ -1,0 +1,15 @@
+total 19
+drwxr-xr-x 1 ubint 197609  0 Jun 30 17:40 .
+drwxr-xr-x 1 ubint 197609  0 Jun 30 15:34 ..
+-rwxr-xr-x 1 ubint 197609 32 Jun 30 15:37 0-hello_world
+-rwxr-xr-x 1 ubint 197609 28 Jun 30 16:16 1-confused_smiley
+-rwxr-xr-x 1 ubint 197609 28 Jun 30 16:23 2-hellofile
+-rwxr-xr-x 1 ubint 197609 39 Jun 30 16:31 3-twofiles
+-rwxr-xr-x 1 ubint 197609 29 Jun 30 16:43 4-lastlines
+-rwxr-xr-x 1 ubint 197609 29 Jun 30 16:49 5-firstlines
+-rwxr-xr-x 1 ubint 197609 40 Jun 30 16:56 6-third_line
+-rwxr-xr-x 1 ubint 197609 71 Jun 30 17:31 7-file
+-rwxr-xr-x 1 ubint 197609 36 Jun 30 17:39 8-cwd_state
+-rw-r--r-- 1 ubint 197609 26 Jun 30 15:43 README.md
+-rw-r--r-- 1 ubint 197609 90 Jun 30 17:03 iacta
+-rw-r--r-- 1 ubint 197609  0 Jun 30 17:40 ls_cwd_content
