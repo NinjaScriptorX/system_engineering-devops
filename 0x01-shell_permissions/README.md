@@ -1,1 +1,1 @@
-Read me file file permissions
+Readme file
